@@ -10,7 +10,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <stack.Navigator 
-      initialRouteName="">
+      >
 
       <stack.Screen
         name="Registro Usuario"
