@@ -5,12 +5,17 @@ const styles = StyleSheet.create({
       flex: 1,
       alignItems: "center",
       justifyContent: "center",
-      backgroundColor:  '#D1C4E9'
+      backgroundColor:  '#FFFFF',
+      padding:20,
+      borderWidht:2,
+      borderColor:'black'
+
     },
     image: {
       flex: 1,
       justifyContent: 'center',
-    },
+    }
+  
   });
 
   export {styles}
